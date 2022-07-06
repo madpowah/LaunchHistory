@@ -6,6 +6,7 @@ The script uses the launch database given by Jonathan C. McDowell (https://plane
 Installation :
 ```
 python -m venv venv
+source ./venv/bin/activate
 pip install -r requirements.txt
 ```
 
