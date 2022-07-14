@@ -1,7 +1,7 @@
 # LaunchHistory
 Python script to read in rockets launch history
 
-The script uses the launch database given by Jonathan C. McDowell (https://planet4589.org/space/gcat/)
+The script uses the launch database given by GCAT Jonathan C. McDowell (https://planet4589.org/space/gcat/)
 
 Installation :
 ```
